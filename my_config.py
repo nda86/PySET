@@ -1,0 +1,1 @@
+wsdl_cards = "http://localhost:8090/SET-ERPIntegration/SET/WSCardsCatalogImport?wsdl"
